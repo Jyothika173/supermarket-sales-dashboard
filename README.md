@@ -1,4 +1,4 @@
-# Supermarket Sales Dashboard
+# Supermarket Sales Analysis
 
 ## Overview
 This project analyzes supermarket sales data using Microsoft Excel to create an interactive dashboard for business reporting.
